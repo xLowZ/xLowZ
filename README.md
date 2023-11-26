@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Estudante de Engenharia Elétrica que gosta de programação e tecnologia.
 
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xLowZ&layout=compact&theme=radical)
 
 ---
 
