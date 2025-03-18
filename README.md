@@ -1,16 +1,28 @@
-# Olá, bem-vindo👋!
+# Hi there 👋 🇧🇷
 
-- 👨‍🎓 Estudante de Engenharia Elétrica que gosta de programação e tecnologia.
-
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xLowZ&layout=compact&theme=radical)
+Electrical Engineer into embedded development, design, and computational intelligence for optimization. Also interested in AI, computer vision and robotics.
 
 ---
 
-### Tecnologias em aprendizado:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xLowZ&layout=compact&theme=radical)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+## 🚀 Tools 
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Py" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg" alt="C" width="70" height="70"/>
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Microchip](https://img.shields.io/badge/Microchip-Studio-CC0000?style=flat-square&logo=microchip-technology&logoColor=white)  
+<!-- ![MikroC](https://img.shields.io/badge/MikroC-00599C?style=flat-square&logo=mikroelektronika&logoColor=white) -->
 
----
-<img aling= "right" alt="Kurisu" src = "https://cdn.discordapp.com/attachments/475749316124737556/1174812977229221958/cad4a4a8c48df813b605083dee9057b1.gif?ex=6568f4d8&is=65567fd8&hm=63ad1af2809a1bbee944e3c1b8bad83c0e0cabdd0b7f459b29d6130f097cd24f">
+## 🔍 Exploring
+
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003366?style=flat-square&logo=freertos&logoColor=white)
+  
+- ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white) ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) 
+
+
+
+### Thanks for stopping by! 
+
+<img src="https://media1.tenor.com/m/wnrR1sonnbMAAAAd/cats.gif" width="210"/>
+
